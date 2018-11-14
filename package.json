@@ -1,0 +1,22 @@
+{
+  "name": "google_geocoder",
+  "version": "1.0.0",
+  "description": "scripts to interact with google's geocode api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-p1/google_geocoder.git"
+  },
+  "author": "Jonathan Plata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-p1/google_geocoder/issues"
+  },
+  "homepage": "https://github.com/Jon-p1/google_geocoder#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.5"
+  }
+}
