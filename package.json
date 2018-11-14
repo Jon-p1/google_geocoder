@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Jon-p1/google_geocoder#readme",
   "dependencies": {
-    "@google/maps": "^0.5.5"
+    "@google/maps": "^0.5.5",
+    "csv-parse": "^3.2.0",
+    "json2csv": "^4.3.0"
   }
 }
